@@ -1,0 +1,40 @@
+@media only screen and (max-width: 480px) {
+    .first_navbar,.second_navbar {
+     width: 29rem;
+     justify-content: space-around;
+    }
+    .uv_padding {
+        padding: 0rem;
+    }
+    .uv_padding_2 {
+        padding: 0rem;
+    }
+    .nav_logo{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
+    .email_logo{
+        display: none;
+
+    }
+    .navbar_menu{
+        display: none;
+    }
+    .second_navbar_log{
+        width: 15.87rem;
+    }
+    .second_navbar_log p{
+        font-size: 1.18rem;
+    }
+    .Toggleable{
+        display: block;
+    }
+    .hamburger-menu{
+        display: block;
+    }
+    .carousel{
+        z-index: -1;
+    }
+  }
+
